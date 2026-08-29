@@ -1,4 +1,4 @@
-# Superconductor Stability Monitoring and Critical Temperature Prediction Using AI
+# Superconductor Stability Monitoring and Critical Temperature Prediction Using Machine Learning
 
 **Senior Graduation Project — Imam Abdulrahman Bin Faisal University**
 **College of Computer Science and Information Technology — Department of Computer Engineering | 2026–2027**
